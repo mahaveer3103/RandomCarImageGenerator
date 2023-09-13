@@ -1,0 +1,23 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to right, lightblue, yellow);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    flex-direction: column;
+}
+
+.container button {
+    background-color: green;
+    color: aliceblue;
+    padding: 10px 30px;
+    font-size: 16px;
+    margin: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+}
