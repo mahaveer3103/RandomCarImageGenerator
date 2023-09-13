@@ -21,3 +21,9 @@ body{
     border-radius: 6px;
     cursor: pointer;
 }
+
+img {
+    width: 500px;
+    height: 600px;
+    border-radius: 50%;
+}
